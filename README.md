@@ -15,16 +15,18 @@ This page lists the research projects where I have had the privilege to collabor
 
 ---
 
-### Title of a paper
+-->
 
-**Authors:** Author1, Author2, Author3 \
-**Keywords:** Keyword1, Keyword2, Keyword3 \
-**Published In:** Journal or Conference Name \
-**Publication Date:** Month, Year 
+### Enhancing water-deficient potato plant identification: assessing realistic performance of attention-based deep neural networks and hyperspectral imaging for agricultural applications
 
-📄 [Paper](link-to-paper) &nbsp; | &nbsp; 💻 [Code](link-to-code) &nbsp; | &nbsp; 📊 [Data](link-to-data) 
+**Authors:** Lapajne J., Vojnović A., Vončina A., Žibrat U. \
+**Keywords:** Hyperspectral imaging, deep learning, potato plant, water-deficiency, drought stress \
+**Published In:**  \
+**Publication Date:** 
 
---- -->
+📄 [Paper](link-to-paper) &nbsp; | &nbsp; 💻 [Code](https://github.com/Manuscripts-code/Potato-plants-drought--Plant-phenomics-2024) &nbsp; | &nbsp; 📊 [Data](10.5281/zenodo.7936850) 
+
+--- 
 
 ### Early Detection of Wireworm (Coleoptera: Elateridae) Infestation and Drought Stress in Maize Using Hyperspectral Imaging
 
