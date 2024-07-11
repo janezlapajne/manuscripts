@@ -21,10 +21,10 @@ This page lists the research projects where I have had the privilege to collabor
 
 **Authors:** Lapajne J., Vojnović A., Vončina A., Žibrat U. \
 **Keywords:** Hyperspectral imaging, deep learning, potato plant, water-deficiency, drought stress \
-**Published In:**  \
-**Publication Date:** 
+**Published In:** Plants basel \
+**Publication Date:** Jul, 2024
 
-📄 [Paper](link-to-paper) &nbsp; | &nbsp; 💻 [Code](https://github.com/Manuscripts-code/Potato-plants-drought--Plant-phenomics-2024) &nbsp; | &nbsp; 📊 [Data](10.5281/zenodo.7936850) 
+📄 [Paper](https://www.mdpi.com/2223-7747/13/14/1918) &nbsp; | &nbsp; 💻 [Code](https://github.com/Manuscripts-code/Potato-plants-drought--plants-2024) &nbsp; | &nbsp; 📊 [Data](https://zenodo.org/records/7936850) 
 
 --- 
 
