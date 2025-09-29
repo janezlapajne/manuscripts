@@ -9,13 +9,24 @@ This page lists the research projects where I have had the privilege to collabor
 **Authors:** Author1, Author2, Author3 \
 **Keywords:** Keyword1, Keyword2, Keyword3 \
 **Published In:** Journal or Conference Name \
-**Publication Date:** Month, Year 
+**Publication Date:** Month, Year
 
-📄 [Paper](link-to-paper) &nbsp; | &nbsp; 💻 [Code](link-to-code) &nbsp; | &nbsp; 📊 [Data](link-to-data) 
+📄 [Paper](link-to-paper) &nbsp; | &nbsp; 💻 [Code](link-to-code) &nbsp; | &nbsp; 📊 [Data](link-to-data)
 
 ---
 
 -->
+
+### An explainable machine learning approach for detection of potato cyst nematode infections using hyperspectral imaging
+
+**Authors:** Lapajne J., Susič N., Vončina A., Gerič Stare B., Viaene N., Van Beek J., Nuyttens D., Širca S., Žibrat U. \
+**Keywords:** Hyperspectral imaging, machine learning, potato cyst nematodes, potato, Globodera, Solanum tuberosum, detection \
+**Published In:** Plant Phenomics; SPJ \
+**Publication Date:** Oct, 2025
+
+📄 [Paper](link-to-paper) &nbsp; | &nbsp; 💻 [Code](https://github.com/Manuscripts-code/Potato-plants-nemdetect--PP-2025) &nbsp; | &nbsp; 📊 [Data](https://zenodo.org/records/14267877)
+
+---
 
 ### Field-Scale UAV-Based Multispectral Phenomics: Leveraging Machine Learning, Explainable AI, and Hybrid Feature Engineering for Enhancements in potato phenotyping
 
