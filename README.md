@@ -24,7 +24,7 @@ This page lists the research projects where I have had the privilege to collabor
 **Published In:** Plant Phenomics; SPJ \
 **Publication Date:** Oct, 2025
 
-📄 [Paper](link-to-paper) &nbsp; | &nbsp; 💻 [Code](https://github.com/Manuscripts-code/Potato-plants-nemdetect--PP-2025) &nbsp; | &nbsp; 📊 [Data](https://zenodo.org/records/14267877)
+📄 [Paper](https://www.sciencedirect.com/science/article/pii/S2643651525001335?via%3Dihub) &nbsp; | &nbsp; 💻 [Code](https://github.com/Manuscripts-code/Potato-plants-nemdetect--PP-2025) &nbsp; | &nbsp; 📊 [Data](https://zenodo.org/records/14267877)
 
 ---
 
